@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: >-
+  Comparative Analysis of Deep Learning and Gradient Boosting Models
+  for Student Dropout Prediction Using the OULAD Behavioral Dataset
+message: "If you use this code, please cite the manuscript."
+type: software
+authors:
+  - given-names: Dedi
+    family-names: Irawan
+    email: dedimti@ummetro.ac.id
+    affiliation: Universitas Muhammadiyah Metro
+  - given-names: Sudarmaji
+    affiliation: Universitas Muhammadiyah Metro
+    email: majidarma5022@gmail.com
+license: MIT
+date-released: "2026-01-01"
